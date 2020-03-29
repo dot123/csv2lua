@@ -1,0 +1,8 @@
+﻿# hook.csv,,,
+# 描述,,,
+#id,数字类型,字符串类型,Map类型
+auto,auto,auto,auto
+id,num,str,m
+1,13,January,"{a=1,b=2}"
+2,12,February,"{a=3,b=4}"
+3,5,March,"{a=5,b=6}"
